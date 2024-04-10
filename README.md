@@ -23,3 +23,6 @@ This project is a comprehensive supermarket inventory management system develope
 
 ## Demo
 This is a sample demo of the project.
+
+https://github.com/Chamodi28/Supermarket-Inventory-System/assets/131423697/b83b684b-4a85-479a-a17c-bff19a38a91f
+
