@@ -1,0 +1,56 @@
+# depslib dependency file v1.0
+1625761491 source:d:\acadamic studies\2021_3rd sem\object oriented programming\supermarketinventorysystem\stock.cpp
+	<iostream>
+	<stdlib.h>
+	"Staff.h"
+	"Stock.h"
+	"Supply.h"
+
+1625049143 d:\acadamic studies\2021_3rd sem\object oriented programming\supermarketinventorysystem\staff.h
+	<iostream>
+	<stdlib.h>
+	"Staff.h"
+	"Stock.h"
+	"Supply.h"
+
+1625753735 d:\acadamic studies\2021_3rd sem\object oriented programming\supermarketinventorysystem\stock.h
+	<iostream>
+	<stdlib.h>
+	"Staff.h"
+	"Stock.h"
+	"Supply.h"
+
+1625975306 source:d:\acadamic studies\2021_3rd sem\object oriented programming\supermarketinventorysystem\main.cpp
+	<iostream>
+	<stdlib.h>
+	"Staff.h"
+	"Stock.h"
+	"Supply.h"
+
+1625760786 source:d:\acadamic studies\2021_3rd sem\object oriented programming\supermarketinventorysystem\staff.cpp
+	<iostream>
+	<stdlib.h>
+	"Staff.h"
+	"Stock.h"
+	"Supply.h"
+
+1625976502 d:\acadamic studies\2021_3rd sem\object oriented programming\supermarketinventorysystem\supply.h
+	<iostream>
+	<stdlib.h>
+	"Staff.h"
+	"Stock.h"
+	"Supply.h"
+
+1625762035 source:d:\acadamic studies\2021_3rd sem\object oriented programming\supermarketinventorysystem\supply.cpp
+	<iostream>
+	<stdlib.h>
+	"Staff.h"
+	"Stock.h"
+	"Supply.h"
+
+1624963168 d:\acadamic studies\2021_3rd sem\object oriented programming\supermarketinventorysystem\sup.h
+	<iostream>
+	<stdlib.h>
+	"Staff.h"
+	"Sup.h"
+
